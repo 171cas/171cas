@@ -8,7 +8,7 @@
 
 ## **About me:**
 - 👨🏻‍💻 Full-Stack software developer, currently working in new projects;
-- :ear: Bilingual (English & Spanish), learning Portuguess and Sign language;
+- :books: Bilingual (English & Spanish), learning Portuguess and Sign language;
 - :school: Working towards completing my BS in Computer Science;
 - 📫 How to contact me: 171cas@gmail.com;
 - 📝 [Resume](https://www.linkedin.com/in/cesar-solano-320211230/).
