@@ -1,5 +1,8 @@
 # Cesar Solano
 
+"I think, therefore I code."<br/>
+
+##
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=171cas.visitor-badge&left_color=red&right_color=green&left_text=Welcome%20Visitor%23)
 <br/>
 <img src='https://c.tenor.com/z2xEZh-yijcAAAAC/welcome-bilbo.gif' height=200/>
@@ -9,6 +12,7 @@
 ##
 
 ## **About me:**
+An all time math lover who carries the passion of learning, algorithms and problem solving to the software industry developing efficient and elegant applications. <br/>
 - 👨🏻‍💻 Full-Stack software developer, currently working in new projects
 - :books: Bilingual (English & Spanish), learning Portuguess and Sign language
 - :school: Working towards completing my BS in Computer Science
@@ -22,13 +26,8 @@
 - :white_square_button: Do you want to play [Chess](https://lichess.org/@/casp17)?
 - :radio: Listen my recorded [radio show](https://soundcloud.com/venezuelanrock/zapato3)
 
-## Bio
-"I think, therefore I code."
-An all time math lover who carries the passion of learning, algorithms and problem solving to the software industry developing efficient and elegant applications. 
-
-
-- 💬 Ask me about anything, I am happy to help
-
+<br/>
+💬 Ask me about anything, I am happy to help<br/><br/>
 
 ## 📈 **My GitHub Stats:**
 <p>
