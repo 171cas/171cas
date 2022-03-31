@@ -2,7 +2,7 @@
 <img src='https://c.tenor.com/z2xEZh-yijcAAAAC/welcome-bilbo.gif' height=125/>
 <br/>
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=171cas.visitor-badge&left_color=red&right_color=green&left_text=Welcome%20Visitor%23)
-
+<br/>
 
 - 💬 Ask me about anything, I am happy to help;
 - 👨🏻‍💻 I’m currently working on new projects;;
