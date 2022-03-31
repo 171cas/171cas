@@ -7,15 +7,15 @@
 ##
 
 ## **About me:**
-- 👨🏻‍💻 Full-Stack software developer, currently working in new projects;
-- :books: Bilingual (English & Spanish), learning Portuguess and Sign language;
-- :school: Working towards completing my BS in Computer Science;
-- 📫 How to contact me: 171cas@gmail.com;
-- 📝 [Resume](https://www.linkedin.com/in/cesar-solano-320211230/).
+- 👨🏻‍💻 Full-Stack software developer, currently working in new projects
+- :books: Bilingual (English & Spanish), learning Portuguess and Sign language
+- :school: Working towards completing my BS in Computer Science
+- 📫 How to contact me: 171cas@gmail.com
+- 📝 [Resume](https://www.linkedin.com/in/cesar-solano-320211230/)
 
 
 ## **Personal:**
-- :family: Married man about to become father for the first time;
+- :family: Married man about to become father for the first time
 - :soccer: Passionate about physical activities
 - :white_square_button: Do you want to play [Chess](https://lichess.org/@/casp17)?
 - :radio: Listen my recorded [radio show](https://soundcloud.com/venezuelanrock/zapato3)
@@ -33,7 +33,7 @@ My current goal, as a family man, is to start a stable and long term career in a
 My hobbies are high fantasy novels, chess (Online Rating 2035), exercise, music, painting, travel and radio personality activities.
 
 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help
 
 
 ## 📈 **My GitHub Stats:**
