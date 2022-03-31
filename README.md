@@ -4,7 +4,7 @@
 <br/>
 <img src='https://c.tenor.com/z2xEZh-yijcAAAAC/welcome-bilbo.gif' height=200/>
 <br/><br/>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-solano-320211230/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-solano-320211230/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/cesar-solano-1)
 ##
 
