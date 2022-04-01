@@ -13,7 +13,7 @@
 
 ## **About me:**
 An all time math lover who carries the passion of learning, algorithms and problem solving to the software industry developing efficient and elegant applications. <br/>
-- 👨🏻‍💻 Full-Stack software developer, currently working in new projects
+- 👨🏻‍💻 Full-Stack Software Engineer, currently working in new projects
 - :books: Bilingual (English & Spanish), learning Portuguess and Sign language
 - :school: Working towards completing my BS in Computer Science
 - 📫 How to contact me: 171cas@gmail.com
