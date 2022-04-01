@@ -2,17 +2,17 @@
 
 "I think, therefore I code."<br/>
 
+### 3+ years of computer science and software development studies
+
 ##
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=171cas.visitor-badge&left_color=red&right_color=green&left_text=Welcome%20Visitor%23)
 <br/>
 <img src='https://c.tenor.com/z2xEZh-yijcAAAAC/welcome-bilbo.gif' width='100%'/>
 <br/><br/>
 
-##
 
 ## **About me:**
 An all time math lover who carries the passion of learning, algorithms and problem solving to the software industry developing efficient and elegant applications. <br/>
-### 3+ years of computer science and software development studies
 - 👨🏻‍💻 Full-Stack software developer, currently working in new projects
 - :books: Bilingual (English & Spanish), learning Portuguess and Sign language
 - :school: Working towards completing my BS in Computer Science
