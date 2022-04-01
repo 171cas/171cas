@@ -1,4 +1,4 @@
-# Cesar Solano
+# Cesar Solano [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-solano-320211230/) [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/cesar-solano-1)
 
 "I think, therefore I code."<br/>
 
@@ -7,9 +7,19 @@
 <br/>
 <img src='https://c.tenor.com/z2xEZh-yijcAAAAC/welcome-bilbo.gif' width='100%'/>
 <br/><br/>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-solano-320211230/)
-[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/cesar-solano-1)
+
 ##
+
+## **About me:**
+An all time math lover who carries the passion of learning, algorithms and problem solving to the software industry developing efficient and elegant applications. <br/>
+### 3+ years of computer science and software development studies
+- 👨🏻‍💻 Full-Stack software developer, currently working in new projects
+- :books: Bilingual (English & Spanish), learning Portuguess and Sign language
+- :school: Working towards completing my BS in Computer Science
+- 📫 How to contact me: 171cas@gmail.com
+- 📝 [Resume](https://www.linkedin.com/in/cesar-solano-320211230/)
+
+
 ## Languages & Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,15 +44,6 @@
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## **About me:**
-An all time math lover who carries the passion of learning, algorithms and problem solving to the software industry developing efficient and elegant applications. <br/>
-### Over three years of Computer Science & Software Developing studies
-- 👨🏻‍💻 Full-Stack software developer, currently working in new projects
-- :books: Bilingual (English & Spanish), learning Portuguess and Sign language
-- :school: Working towards completing my BS in Computer Science
-- 📫 How to contact me: 171cas@gmail.com
-- 📝 [Resume](https://www.linkedin.com/in/cesar-solano-320211230/)
 
 
 ## **Personal:**
