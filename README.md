@@ -25,7 +25,7 @@ An all time math lover who carries the passion of learning, algorithms and probl
 - :books: Bilingual (English & Spanish), learning Portuguess and Sign language
 - :school: Working towards completing my BS in Computer Science
 - 📫 How to contact me: 171cas@gmail.com
-- 📝 [Resume](https://www.linkedin.com/in/cesar-solano-320211230/)
+- 📝 [Resume](https://cesar-solano.com/documents/Resume-Cesar_Solano.pdf)
 
 
 ## Languages & Tools
