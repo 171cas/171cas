@@ -55,13 +55,13 @@ An all-time math lover who carries the passion for learning, algorithms, and pro
 
 
 ## **Personal:**
-- :family: Married man about to become father for the first time
+- :family: Married man about to become a father for the first time
 - :soccer: Passionate about physical activities
 - :white_square_button: Do you want to play [Chess](https://lichess.org/@/casp17)?
-- :radio: Listen my recorded [radio show](https://soundcloud.com/venezuelanrock/zapato3)
+- :radio: Listen to my recorded [radio show](https://soundcloud.com/venezuelanrock/zapato3)
 
 <br/>
-💬 Ask me about anything, I am happy to help<br/><br/>
+💬 Ask me about anything; I am happy to help<br/><br/>
 
 
 
