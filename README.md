@@ -20,7 +20,7 @@
 
 
 ## **About me:**
-An all time math lover who carries the passion of learning, algorithms and problem solving to the software industry developing efficient and elegant applications. <br/>
+An all-time math lover who carries a passion for learning algorithms and problem-solving in the software industry, developing efficient and elegant applications. <br/>
 - 👨🏻‍💻 Full-Stack Software Engineer, currently working in new projects
 - :books: Bilingual (English & Spanish), learning Portuguess and Sign language
 - :school: Working towards completing my BS in Computer Science
