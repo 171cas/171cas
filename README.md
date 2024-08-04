@@ -1,4 +1,4 @@
-# Cesar Solano [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-solano-320211230/) [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/cesar-solano-1) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:171cas@gmail.com)
+# Cesar Solano [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-solano-320211230/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:171cas@gmail.com)
 
 "I think, therefore I code."<br/>
 
@@ -55,7 +55,7 @@ An all-time math lover who carries the passion for learning, algorithms, and pro
 
 
 ## **Personal:**
-- :family: Married man about to become a father for the first time
+- :family: Married man and father of one 
 - :soccer: Passionate about physical activities
 - :white_square_button: Do you want to play [Chess](https://lichess.org/@/casp17)?
 - :radio: Listen to my recorded [radio show](https://soundcloud.com/venezuelanrock/zapato3)
