@@ -13,7 +13,7 @@
 ##
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=171cas.visitor-badge&left_color=black&right_color=yellow&left_text=Welcome%20Traveler%23)
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=171cas&repo=171cas&label=Welcome%20Traveler%23&countColor=%237B1E7A)
 
 <br/>
 <img src='https://c.tenor.com/z2xEZh-yijcAAAAC/welcome-bilbo.gif' width='100%'/>
