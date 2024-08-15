@@ -2,8 +2,6 @@
 
 "I think, therefore I code."<br/>
 
-### 3+ years of computer science and software development studies
-
 ##
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=171cas&show_icons=true&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast" />
