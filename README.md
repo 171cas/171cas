@@ -22,8 +22,7 @@ An all-time math lover who carries the passion for learning, algorithms, and pro
 - 👨🏻‍💻 Full-Stack Software Engineer, currently working in new projects
 - :books: Bilingual (English & Spanish), learning Portuguess and Sign language
 - :school: Working towards completing my BS in Computer Science
-- 📫 How to contact me: 171cas@gmail.com
-- 📝 [Resume](https://cesar-solano.com/documents/Resume-Cesar_Solano.pdf)
+- 📫 How to contact me: cs17.se@gmail.com
 
 
 ## Languages & Tools
